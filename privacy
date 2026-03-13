@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>プライバシーポリシー - 合格クロック / マイ単語アラーム</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    .container {
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 1.5em;
+      border-bottom: 2px solid #6366F1;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    h2 {
+      font-size: 1.2em;
+      margin-top: 30px;
+      color: #6366F1;
+    }
+    p, li {
+      font-size: 1em;
+      margin-bottom: 10px;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    a {
+      color: #6366F1;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>「合格クロック / マイ単語アラーム」 プライバシーポリシー</h1>
+    <p>開発者・運営者（以下、「当社」）は、本アプリ「合格クロック / マイ単語アラーム」における、ユーザーの情報の取扱いについて、以下のとおりプライバシーポリシー（以下、「本ポリシー」）を定めます。</p>
+
+    <h2>1. 非取得の原則（ユーザーデータの保護）</h2>
+    <p>本アプリは<strong>完全オフラインで動作する設計</strong>となっております。ユーザーが入力した「単語データ」「アラーム設定」「学習の統計データ」等は端末内にのみ保存され、当社がこれらをサーバー等で収集・取得することはありません。</p>
+
+    <h2>2. 情報収集モジュール（第三者サービス）について</h2>
+    <p>本アプリでは、アプリの運営維持（広告配信）および利用状況解析のため、以下の第三者サービスを利用しており、同サービスが利用者情報を自動取得する場合があります。これらは利用者を個人として特定するものではありません。</p>
+    <ul>
+      <li><strong>Google AdMob</strong>
+        <ul>
+          <li>取得される情報：広告ID、デバイス情報等</li>
+          <li>目的：パーソナライズ広告の配信および効果測定</li>
+          <li>プライバシーポリシー：<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Google ポリシーおよび規約</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <h2>3. パーソナライズ広告のオプトアウト（無効化）</h2>
+    <p>利用者は、お使いのスマートフォンの設定により、広告IDを利用したパーソナライズ広告の配信を無効化（オプトアウト）することができます。</p>
+    <ul>
+      <li><strong>iOSの場合：</strong>「設定」>「プライバシー」>「Apple広告」</li>
+      <li><strong>Androidの場合：</strong>「設定」>「Google」>「広告」</li>
+    </ul>
+
+    <h2>4. 個人情報の第三者提供</h2>
+    <p>当社は、利用者から個人情報を取得していないため、法令に基づく公的機関からの開示要請がある場合を除き、第三者へ提供することはありません。</p>
+
+    <h2>5. 免責事項</h2>
+    <p>本アプリの利用により生じたいかなる損害（データの消失、アラームの不動作による遅刻、第三者サービスによるトラブル等）についても、当社は一切の責任を負いません。詳細は「利用規約」をご確認ください。</p>
+
+    <h2>6. プライバシーポリシーの変更</h2>
+    <p>当社は、必要に応じて本ポリシーを変更することがあります。変更後のプライバシーポリシーは、本アプリ内または関連サイトに掲示した時点から効力を生じるものとします。</p>
+
+    <h2>7. お問い合わせ窓口</h2>
+    <p>本ポリシーに関するお問い合わせは、下記の窓口までお願いいたします。</p>
+    <ul>
+      <li>メールアドレス： [あなたのメールアドレスを入力]</li>
+    </ul>
+
+    <p style="margin-top: 40px; text-align: right; color: #888;">
+      制定日：202X年 X月 X日
+    </p>
+  </div>
+</body>
+</html>ファイル内容はこちらから入力してください
